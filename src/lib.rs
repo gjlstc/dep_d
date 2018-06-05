@@ -7,5 +7,5 @@ mod tests {
 }
 
 pub fn p() {
-    println!("dep_d version 0.1.0");
+    println!("dep_d version 0.1.1");
 }
