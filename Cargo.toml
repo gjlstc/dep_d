@@ -1,0 +1,6 @@
+[package]
+name = "dep_d"
+version = "0.1.0"
+authors = ["JinLin Gan <JinLin.Gan@Gmail.com>"]
+
+[dependencies]
