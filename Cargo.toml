@@ -2,7 +2,7 @@
 name = "dep_d"
 version = "3.1.0"
 authors = ["JinLin Gan <JinLin.Gan@Gmail.com>"]
-description = "for test don't use"
+description = "for test don't use!"
 license = 'MIT'
 
 [dependencies]
