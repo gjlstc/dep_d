@@ -1,6 +1,6 @@
 [package]
 name = "dep_d"
-version = "1.0.0"
+version = "3.0.0"
 authors = ["JinLin Gan <JinLin.Gan@Gmail.com>"]
 description = "for test don't use"
 license = 'MIT'
